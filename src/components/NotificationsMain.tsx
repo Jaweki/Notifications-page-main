@@ -120,6 +120,7 @@ const NotificationsMain = () => {
       <span className="text-[12px] mt-10 max-mobile:mb-7">
         Challenge by{" "}
         <a
+          target="_blank"
           href="https://www.frontendmentor.io/?ref=challenge"
           className=" text-primary-blue underline"
         >
@@ -127,6 +128,7 @@ const NotificationsMain = () => {
         </a>{" "}
         Coded by{" "}
         <a
+          target="_blank"
           href="https://portfolio.jaweki.com"
           className=" text-primary-blue underline"
         >
